@@ -1,6 +1,18 @@
 # Analise-de-Filmes
 Analizando Filmes de um dataBase
 
+Projeto desafio estatistica 
+
+Esse projeto foi feito tendo base a primeira parte do curso de estatistica da alura
+
+|🔨 Vitrine.Dev   |    |
+|:-----------------|:---:|
+|✨ Nome        | Análise de Filmes|
+|🏷️ Tecnologia  | JupterNotebook, Python, pandas, MatPlotLib, SeaBorne|
+|🚀 url         | [Analise de filmes](https://github.com/vitaoTM/Analise-de-Filmes/blob/main/Analise_de_Filmes.ipynb)|
+|🔥 Desafio     | Fazer uma análise estatística de filmes de uma [base do keggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)|
+
+
 ## O que foi feito nesse projeto 
 
 #### Aqui foi pego uma base de Dados de notas de Filmes
